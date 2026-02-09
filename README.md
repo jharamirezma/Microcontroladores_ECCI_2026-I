@@ -3,7 +3,7 @@
 ## Profesor
 ```
 Jhon Alexander Ramirez Martinez
-jramirezma@ecci.edu.co
+jramirezm@ecci.edu.co
 ```
 
 
