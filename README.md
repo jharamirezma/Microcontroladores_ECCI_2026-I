@@ -3,7 +3,7 @@
 ## Profesor
 ```
 Jhon Alexander Ramirez Martinez
-jramirezm@ecci.edu.co
+jramirezma@ecci.edu.co
 ```
 
 
@@ -47,7 +47,7 @@ Para más detalles sobre el microcontrolador utilizado en el curso, consultar la
     <td>4-5</td>
     <td>Caracterización de osciladores</td>
     <td><a href="/labs/02_lab02/README.md">lab02</a></td>
-    <td><a href=>Link</a></td>
+    <td><a href=https://classroom.github.com/a/KzqfxGd5>Link</a></td>
     <td> 09 de Marzo</td>
   </tr>
   </table>
