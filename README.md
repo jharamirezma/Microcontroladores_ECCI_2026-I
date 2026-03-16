@@ -55,7 +55,14 @@ Para más detalles sobre el microcontrolador utilizado en el curso, consultar la
     <td>PWM</td>
     <td><a href="/labs/03_lab03/README.md">lab03</a></td>
     <td><a href=https://classroom.github.com/a/T0bQek2r>Link</a></td>
-    <td> 16 de Marzo</td>
+    <td> 23 de Marzo</td>
+  </tr>
+      <tr>
+    <td>6</td>
+    <td>LCD 16x2</td>
+    <td><a href="/labs/04_lab04/README.md">lab04</a></td>
+    <td><a href=https://classroom.github.com/a/AB64yCoL>Link</a></td>
+    <td> 30 de Marzo</td>
   </tr>
   </table>
 
