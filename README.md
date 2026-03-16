@@ -68,5 +68,17 @@ Para más detalles sobre el microcontrolador utilizado en el curso, consultar la
 
 
 
+#### Encuentro de robotica REDCOSI
+
+<table>
+     <tr>
+    <td>ROBOLAB</td>
+    <td> Inscripcion: 15 de Abril</td>
+    <td><a href=https://web.redcolsi.org>Link</a></td>
+  </tr>
+</table>
+
+
+
   
 
