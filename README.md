@@ -57,12 +57,19 @@ Para más detalles sobre el microcontrolador utilizado en el curso, consultar la
     <td><a href=https://classroom.github.com/a/T0bQek2r>Link</a></td>
     <td> 23 de Marzo</td>
   </tr>
-      <tr>
+  <tr>
     <td>6</td>
     <td>LCD 16x2</td>
     <td><a href="/labs/04_lab04/README.md">lab04</a></td>
     <td><a href=https://classroom.github.com/a/AB64yCoL>Link</a></td>
     <td> 30 de Marzo</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Actividad evaluativa</td>
+    <td><a href="/labs/05_lab05/README.md">Actividad Evaluativa</a></td>
+    <td><a href="">Link</a></td>
+    <td> 13 de Abril</td>
   </tr>
   </table>
 
