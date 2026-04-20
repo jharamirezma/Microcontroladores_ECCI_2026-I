@@ -71,6 +71,13 @@ Para más detalles sobre el microcontrolador utilizado en el curso, consultar la
     <td><a href="https://classroom.github.com/a/YAS_djo4">Link</a></td>
     <td> 13 de Abril (SP) 20 de Abril (SE)</td>
   </tr>
+    <tr>
+    <td>10-11</td>
+    <td>uart</td>
+    <td><a href="/labs/06_lab06/README.md">lab06</a></td>
+    <td><a href="https://classroom.github.com/a/MCJunYEq">Link</a></td>
+    <td> 27 de Mayo</td>
+  </tr>
   </table>
 
 
