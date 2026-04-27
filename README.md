@@ -76,7 +76,15 @@ Para más detalles sobre el microcontrolador utilizado en el curso, consultar la
     <td>uart</td>
     <td><a href="/labs/06_lab06/README.md">lab06</a></td>
     <td><a href="https://classroom.github.com/a/MCJunYEq">Link</a></td>
-    <td> 27 de Mayo</td>
+    <td> 4 de Mayo</td>
+  </tr>
+   </tr>
+    <tr>
+    <td>12-13</td>
+    <td> Pantalla LCD $16 \times 2$ en modo I²C</td>
+    <td><a href="/labs/07_lab07/README.md">lab07</a></td>
+    <td><a href="">Link</a></td>
+    <td> 11 de Mayo</td>
   </tr>
   </table>
 
