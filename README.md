@@ -73,24 +73,32 @@ Para más detalles sobre el microcontrolador utilizado en el curso, consultar la
   </tr>
     <tr>
     <td>10-11</td>
-    <td>uart</td>
+    <td>UART</td>
     <td><a href="/labs/06_lab06/README.md">lab06</a></td>
     <td><a href="https://classroom.github.com/a/MCJunYEq">Link</a></td>
     <td> 4 de Mayo</td>
   </tr>
-   </tr>
+  </tr>
     <tr>
     <td>12-13</td>
     <td> Pantalla LCD $16 \times 2$ en modo I²C</td>
     <td><a href="/labs/07_lab07/README.md">lab07</a></td>
-    <td><a href="">Link</a></td>
+    <td><a href="https://classroom.github.com/a/rb0M7Pn8">Link</a></td>
     <td> 11 de Mayo</td>
+  </tr>
+  </tr>
+    <tr>
+    <td>15</td>
+    <td> Actividad evaluativa final </td>
+    <td><a href="">Actividad evaluativa Final</a></td>
+    <td><a href="">Link</a></td>
+    <td> 11 de Mayo (SP) -----</td>
   </tr>
   </table>
 
 
 
-#### Encuentro de robotica REDCOSI
+#### Encuentro de robotica REDCOLSI
 
 <table>
      <tr>
