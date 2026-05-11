@@ -49,7 +49,7 @@ Se debe diseñar e implementar un programa en el microcontrolador ```PIC```, don
 $$ VOUT​=\frac{ADC_{VAL}×V_{REF}}{1023}​​  $$
 
 * Actualizar constantemente el valor en la LCD con dos decimales de precisión.
-Ejemplo: Voltaje: 3.27V.
+Ejemplo: Vol: 3.27.
 
 ### 2. Visualización en LCD
 
