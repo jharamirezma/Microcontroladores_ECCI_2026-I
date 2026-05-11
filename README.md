@@ -92,7 +92,7 @@ Para más detalles sobre el microcontrolador utilizado en el curso, consultar la
     <td> Actividad evaluativa final </td>
     <td><a href="/labs/08_lab08/README.md">Actividad evaluativa Final</a></td>
     <td><a href="">Link</a></td>
-    <td> 11 de Mayo (SP) -----</td>
+    <td> 11 de Mayo (SP) 18 de Mayo (SE)</td>
   </tr>
   </table>
 
