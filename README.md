@@ -87,10 +87,17 @@ Para más detalles sobre el microcontrolador utilizado en el curso, consultar la
     <td> 11 de Mayo</td>
   </tr>
   </tr>
-    <tr>
+  <tr>
     <td>15-16</td>
     <td> Actividad evaluativa final </td>
     <td><a href="/labs/08_lab08/README.md">Actividad evaluativa Final</a></td>
+    <td><a href="https://classroom.github.com/a/iq3Pj0GT">Link</a></td>
+    <td> 11 de Mayo (SP) 18 de Mayo (SE)</td>
+  </tr>
+  <tr>
+    <td>15-16</td>
+    <td> Actividad evaluativa final G2 (Lunes 6 - 10 PM) </td>
+    <td><a href="/labs/08_lab08/README2.md">Actividad evaluativa Final</a></td>
     <td><a href="https://classroom.github.com/a/iq3Pj0GT">Link</a></td>
     <td> 11 de Mayo (SP) 18 de Mayo (SE)</td>
   </tr>
